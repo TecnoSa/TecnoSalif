@@ -32,7 +32,7 @@ At any point both client and server can authenticate with the same 6 digit code 
 In your CLI:
 
     $ npm clone https://github.com/TecnoSalif.git
-    $ cd google-auth-totp
+    $ cd TecnoSalif
     $ node index
 
 Then navigate in your browser http://localhost:3000 to see the QR code.
